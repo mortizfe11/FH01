@@ -1,0 +1,84 @@
+ * {
+    background-color: #FFF;
+
+ }
+
+ nav {
+    display:inline;
+    padding: 0 8px;
+ }
+
+ nav li{
+  display: inline;
+    text-decoration: none;
+
+ }
+ nav a {
+/*  height: 60px;
+   line-height: -50px;*/
+   color: #204156;
+   text-decoration: none;
+   margin: .2em;
+   /*margin-bottom: 1.5em;*/
+   float:right;
+ }
+
+ #header{
+    background-color: #4CAF50;
+    float: left;
+    position: fixed;
+    z-index: 1;
+    height: 3%;
+    width: 80%;
+    border: 1px solid #000;
+    padding-top: 7px;
+
+ }
+
+ section{
+   margin: 15% 0% 0% 20%;
+ }
+
+ .button{
+   background-color: #4CAF50;
+   border: none;
+   color: white;
+   height: 25%;
+   width: 25%;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 1.5rem;
+   cursor: pointer;
+   border-radius: 1.5rem;
+   margin: 3%;
+
+ }
+
+ .button:hover {
+    background-color: #3E8E41;
+}
+
+ #footer{
+
+ }
+ /*
+
+ .contact-btn {
+   float: right;
+ }
+
+ .contact-btn a {
+   cursor: pointer;
+   margin-right: -3%;*/
+   /*margin-right: 30px;
+   padding: 8px 18px;
+   border: 1px solid #204156;*/
+/*   position: relative;
+
+ }
+
+ .contact-btn a:active {
+ 	top: 2px;
+ }
+*/
